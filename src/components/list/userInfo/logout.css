@@ -1,0 +1,15 @@
+.logout{
+    margin:  20px 5px ;
+    padding: 5px 15px;
+    border:none;
+    border-radius: 5px;
+    position: absolute;
+    left:-50px;
+    bottom: -23px;
+    background-color: rgb(255, 98, 98);
+    color: white;
+    font-weight: 600;
+    &:hover{
+            background-color: rgb(255, 0, 0);
+    }
+}
